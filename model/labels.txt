@@ -1,0 +1,3 @@
+0 Kupu-kupu Gajah
+1 Kupu-kupu Raja
+2 Kupu-kupu Zebra
