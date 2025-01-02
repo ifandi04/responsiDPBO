@@ -5,7 +5,7 @@ from PIL import Image, ImageOps
 
 # Set up Streamlit app
 def main():
-    st.title("klasifikasi Kupu-kupu")
+    st.title("klasifikasi")
 
     # Load the model and class labels
     model = load_model("model/keras_model.h5", compile=False)
